@@ -14,4 +14,8 @@
     <PackageReference Include="ZKWeb.System.Drawing" Version="4.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
 </Project>
